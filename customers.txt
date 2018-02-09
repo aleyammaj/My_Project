@@ -1,0 +1,34 @@
+﻿{
+  "records": [
+    {
+      "Name": "Tom",
+      "City": "Santa Fe",
+      "Country": "USA"
+    },
+    {
+      "Name": "Remo",
+      "City": "Las Vegas",
+      "Country": "USA"
+    },
+    {
+      "Name": "Pabulos",
+      "City": "México D.F.",
+      "Country": "Mexico"
+    },
+    {
+      "Name": "Naman",
+      "City": "London",
+      "Country": "UK"
+    },
+    {
+      "Name": "Chris",
+      "City": "Indianapolis",
+      "Country": "USA"
+    },
+    {
+      "Name": "Megul Rivera",
+      "City": "São Paulo",
+      "Country": "Brazil"
+    }
+  ]
+}
